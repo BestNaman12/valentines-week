@@ -1,6 +1,6 @@
 // src/App.js
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 import RoseDay from "./pages/RoseDay";
 import ProposeDay from "./pages/ProposeDay";
@@ -9,8 +9,8 @@ import TeddyDay from "./pages/TeddyDay";
 import PromiseDay from "./pages/PromiseDay";
 import HugDay from "./pages/HugDay";
 import KissDay from "./pages/KissDay";
-import ValentineDay from "./pages/ValentineDay";  // Add import for ValentineDay page
-import Home from "./pages/Home";  // Add import for Home page
+import ValentineDay from "./pages/ValentineDay";  
+import Home from "./pages/Home";  
 
 function App() {
   return (
