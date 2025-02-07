@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valentines-week/static/css/main.e6c13ad2.css",
-    "main.js": "/valentines-week/static/js/main.7b1c04d4.js",
+    "main.js": "/valentines-week/static/js/main.e4d4187b.js",
     "static/js/488.bbd56681.chunk.js": "/valentines-week/static/js/488.bbd56681.chunk.js",
     "static/media/teddy.jpg": "/valentines-week/static/media/teddy.ace51adff94b76fb12aa.jpg",
     "static/media/ring.jpg": "/valentines-week/static/media/ring.33868ce1e2073484e594.jpg",
@@ -12,11 +12,11 @@
     "static/media/heart.jpg": "/valentines-week/static/media/heart.1aed5666d549ede77375.jpg",
     "index.html": "/valentines-week/index.html",
     "main.e6c13ad2.css.map": "/valentines-week/static/css/main.e6c13ad2.css.map",
-    "main.7b1c04d4.js.map": "/valentines-week/static/js/main.7b1c04d4.js.map",
+    "main.e4d4187b.js.map": "/valentines-week/static/js/main.e4d4187b.js.map",
     "488.bbd56681.chunk.js.map": "/valentines-week/static/js/488.bbd56681.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.7b1c04d4.js"
+    "static/js/main.e4d4187b.js"
   ]
 }
