@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import hugImage from "./assets/hug.png";  
+import hugImage from "../assets/hug.png";  
 
 const Container = styled.div`
   display: flex;

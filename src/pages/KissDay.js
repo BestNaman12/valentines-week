@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import lipsImage from "./assets/lips.jpg";  
+import lipsImage from "../assets/lips.jpg";  
 
 const Container = styled.div`
   display: flex;
@@ -41,7 +41,7 @@ const LipMark = styled(motion.div)`
   position: absolute;
   width: 30px;
   height: 30px;
-  background: url("../assets/lipmark.png") no-repeat center/cover;
+  background: url(".../assets/lipmark.png") no-repeat center/cover;
 `;
 
 const KissDay = () => {

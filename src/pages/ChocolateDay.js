@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import chocolateImage from "./assets/chocolate.jpg";  
+import chocolateImage from "../assets/chocolate.jpg";  
 
 const Container = styled.div`
   display: flex;
