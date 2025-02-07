@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import ringImage from "C:/Users/Naman Mittal/valentines-week/src/assets/ring.jpg";  
+import ringImage from "./assets/ring.jpg";  
 
 const Container = styled.div`
   display: flex;

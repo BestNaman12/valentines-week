@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import teddyImage from "C:/Users/Naman Mittal/valentines-week/src/assets/teddy.jpg";  
+import teddyImage from "./assets/teddy.jpg";  
 
 const Container = styled.div`
   display: flex;

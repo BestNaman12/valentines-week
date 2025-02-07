@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import lipsImage from "C:/Users/Naman Mittal/valentines-week/src/assets/lips.jpg";  
+import lipsImage from "./assets/lips.jpg";  
 
 const Container = styled.div`
   display: flex;

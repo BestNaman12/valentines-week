@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import letterImage from "C:/Users/Naman Mittal/valentines-week/src/assets/love_letter.png";  
+import letterImage from "./assets/love_letter.png";  
 
 const Container = styled.div`
   display: flex;
