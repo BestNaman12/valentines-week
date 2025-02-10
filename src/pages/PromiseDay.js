@@ -49,20 +49,20 @@ const PromiseDay = () => {
 
       {showMessage && (
         <Message initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1 }}>
-          I promise to love you, through thick and thin,  
-          In every battle, we’ll always win.  
-          Through sunny days and stormy skies,  
-          I promise to be your guiding light.  
+          I promise to stand by your side each day,
+          Through every laugh, through every fray.
+          In your happiest moments, in times you feel low,
+          I'll be the one who won’t let go.
 
-          I promise to hold your hand so tight,  
-          In laughter, in sorrow, in darkest night.  
-          I promise to wipe away your tears,  
-          To stand beside you for endless years.  
+          I promise to listen, to understand,
+          To walk with you, hand in hand.
+          Through late-night talks and silly fights,
+          I'll hold you close, make things right.
 
-          My love is strong, my heart is true,  
-          This is my promise, forever to you.  
-          No matter where life takes us, come what may,  
-          I’ll love you more with each passing day. ❤️  
+          With you, love feels so pure, so true,
+          Every moment, an adventure new.
+          No matter what life sends our way,
+          I’ll cherish you more with each new day. ❤️ 
         </Message>
       )}
     </Container>
