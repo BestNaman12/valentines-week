@@ -75,20 +75,11 @@ const KissDay = () => {
 
       {showMessage && (
         <Message initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1 }}>
-          A kiss so soft, a love so deep,  
-          A promise of love, forever to keep.  
-          The touch of your lips, a moment so right,  
-          Sends my heart soaring, high as a kite.  
-
-          Every kiss is a whisper of love,  
-          A promise sealed from the stars above.  
-          My heart races, my soul ignites,  
-          Every time we share this delight.  
-
-          So close your eyes, let our hearts align,  
-          Let this kiss be yours and mine.  
-          Forever and always, our love will stay,  
-          Happy Kiss Day, my love, today and always. 💋  
+          In just these seven months, we've shared so much – laughter, quiet moments, and a bond that feels deeper with each passing day. 
+          Today, on Kiss Day, I’m reminded that a kiss isn’t just a gesture; it’s a connection, a reflection of everything we’ve built together. 
+          Each time we kiss, I feel more certain of the love we’re creating, steady and true. 
+          Here’s to the quiet moments and the shared kisses that make everything feel right. 
+          Happy Kiss Day, my love – I’m so grateful for you. ❤️
         </Message>
       )}
     </Container>
